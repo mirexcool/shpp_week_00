@@ -1,0 +1,13 @@
+{
+  "scene" : [
+    "   ",
+    "   ",
+    ">  "
+  ],
+  "configurations" : {
+    "default" : {
+      "initial_beepers_count" : 9999999,
+      "actions_limit": 9999999
+    }
+  }
+}

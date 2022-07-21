@@ -1,0 +1,19 @@
+{
+  "scene" : [
+    "xxxxxxxxxxxxx",
+    "xxx x xxxxxxx",
+    "xxxx xxxxxxxx",
+    "x  x x  x   x",
+    "1  x x  x   1",
+    "1  x1x  x    ",
+    "   x x  x   1",
+    "   x1x  x    ",
+    ">   1       1"
+  ],
+  "configurations" : {
+    "default" : {
+      "initial_beepers_count" : 9999999,
+      "actions_limit": 9999999
+    }
+  }
+}
